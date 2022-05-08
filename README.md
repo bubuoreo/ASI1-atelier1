@@ -11,11 +11,15 @@
 ### Web Dynamique
 
 - Formulaire conforme
-- Création de carte fonctionnel
+- Création de carte fonctionnelle
 - Aléatoire fonctionnel
-- Liste des cartes fonctionnel
+- Liste des cartes fonctionnelle
 
 ### Web Statique
+
+- Formulaire de saisie conforme
+- Création de carte fonctionnelle
+- Page d'affichage d'une ou plusieurs cartes fonctionnelle
 
 ## Eléments non réalisés du cahier des charges
 
@@ -24,7 +28,6 @@
 - Vue non conforme aux attentes
 
 ### Web Statique
-
 
 ## Git
 
