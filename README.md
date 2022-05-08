@@ -6,6 +6,14 @@
  - GAUD Romain
  - GALMIER Romain
 
+## Git
+
+### Principal
+https://github.com/bubuoreo/ASI1-atelier1
+
+### Annexe
+https://github.com/Rom9281/ArchitectureSys
+
 ## éléments réalisés du cahier des charges
 
 Le rendu de l'Atelier 1 devra contenir les éléments suivants:
