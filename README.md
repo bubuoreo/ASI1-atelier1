@@ -24,3 +24,5 @@ Le rendu de l'Atelier 1 devra contenir les éléments suivants:
 - Les sources de votre production de l'atelier (lien Git)
 
 - PDF présentant les avantages et les inconvénients du Web Statique et Web Dynamique
+
+
