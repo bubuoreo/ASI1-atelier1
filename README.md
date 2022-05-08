@@ -6,6 +6,26 @@
  - GAUD Romain
  - GALMIER Romain
 
+## Eléments réalisés du cahier des charges
+
+### Web Dynamique
+
+- Formulaire conforme
+- Création de carte fonctionnel
+- Aléatoire fonctionnel
+- Liste des cartes fonctionnel
+
+### Web Statique
+
+## Eléments non réalisés du cahier des charges
+
+### Web Dynamique
+
+- Vue non conforme aux attentes
+
+### Web Statique
+
+
 ## Git
 
 ### Principal
